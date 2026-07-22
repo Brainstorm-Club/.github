@@ -20,9 +20,10 @@ campagne.
 ## Le collane
 
 Dai log delle nostre campagne nascono raccolte di racconti, curate come piccole
-fanzine. Tra le serie: le **Cronache di Korvaal**, il ciclo **Dark Heresy** nel
+fanzine. Tra le serie: le **Cronache di Korvaal** ed il ciclo **Dark Heresy** nel
 mondo di Warhammer 40k, i **Codici del Silenzio** (Apocalisse), la collana
-**dnd-jr** nel Vecchio Mondo e i **Dossier Scavengers** (Heroes Unlimited).
+**dnd-jr** nel Vecchio Mondo, le folli avventure degli sganassoni in **Brancalonia** 
+e i **Dossier Scavengers** (Heroes Unlimited).
 
 ---
 

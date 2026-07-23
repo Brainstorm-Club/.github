@@ -16,6 +16,7 @@ campagne.
 | [**design-system**](https://github.com/Brainstorm-Club/design-system) | Il sistema visivo del club — token, componenti CSS e living style guide — ricavato dal logo: nero carbone, rosso mattone, il cervello-doodle e il suo lampo. | |
 | [**dnd-character-builder**](https://github.com/Brainstorm-Club/dnd-character-builder) | Costruttore di schede personaggio (Vue 3) per D&D 5e, Brancalonia e Apocalisse. | |
 | [**harp-forge**](https://github.com/Brainstorm-Club/harp-forge) | Costruttore di schede personaggio per HARP (ambientazione 40K): crea, mantieni e fai evolvere il personaggio. Local-first, zero server. | |
+| [**crit-xp-sheet**](https://github.com/Brainstorm-Club/crit-xp-sheet) | A lightweight, mobile-friendly experience point tracker for tabletop RPGs — designed for systems where XP is earned through maneuvers, saving throws, criticals, kills, and spells (e.g. HARP). | |
 
 ## Le collane
 
